@@ -1,5 +1,5 @@
 # BolTDL
-Bolhuis' ToDo Lists: A tiny organization program with vim-like keybinds.
+Bolhuis' ToDo Lists :books: : A tiny organization program with vim-like keybinds.
 Tested working on Windows 10 and Archlinux (x64).
 
 ## Build
